@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @odeatschneider
+👋 Hi, I’m @odeatschneider
 
 <!---
 odeatschneider/odeatschneider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
